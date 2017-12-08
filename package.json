@@ -1,0 +1,23 @@
+{
+  "name": "hablingo",
+  "version": "1.0.0",
+  "description": "A conversation app for sharing languages",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kellybarber/Hablingo.git"
+  },
+  "keywords": [
+    "language",
+    "swap"
+  ],
+  "author": "Kelly Barber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellybarber/Hablingo/issues"
+  },
+  "homepage": "https://github.com/kellybarber/Hablingo#readme"
+}

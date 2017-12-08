@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kellybarber/Hablingo/issues"
   },
-  "homepage": "https://github.com/kellybarber/Hablingo#readme"
+  "homepage": "https://github.com/kellybarber/Hablingo#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
